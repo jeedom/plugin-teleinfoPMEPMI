@@ -1,0 +1,77 @@
+{
+    "plugins\/teleinfoPMEPMI\/plugin_info\/configuration.php": {
+        "Port série": "Serielle Schnittstelle",
+        "Renseignez le port de communication": "Geben Sie den Kommunikationsport ein"
+    },
+    "plugins\/teleinfoPMEPMI\/desktop\/php\/teleinfoPMEPMI.php": {
+        "401 - Accès non autorisé": "401 – Unbefugter Zugriff",
+        "Gestion": "Management",
+        "Configuration": "Aufbau",
+        "Mes compteurs": "Meine Zähler",
+        "Rechercher": "Forschen",
+        "Equipement visible": "Sichtbare Ausrüstung",
+        "Equipement non visible": "Ausrüstung nicht sichtbar",
+        "Configuration avancée": "Erweiterte Konfiguration",
+        "Dupliquer": "Duplikat",
+        "Sauvegarder": "Zum Schutz",
+        "Supprimer": "LÖSCHEN",
+        "Equipement": "Ausrüstung",
+        "Commandes": "Aufträge",
+        "Paramètres généraux": "Allgemeine Einstellungen",
+        "Nom de l'équipement": "Ausrüstungsname",
+        "Objet parent": "Übergeordnetes Objekt",
+        "Aucun": "Keiner",
+        "Catégorie": "Kategorie",
+        "Options": "Optionen",
+        "Activer": "Aktivieren",
+        "Visible": "Sichtbar",
+        "Informations": "Information",
+        "Description": "Beschreibung",
+        "Nom": "Name",
+        "Type": "Art",
+        "Etat": "Zustand",
+        "Actions": "Aktionen"
+    },
+    "plugins\/teleinfoPMEPMI\/desktop\/js\/teleinfoPMEPMI.js": {
+        "Nom de la commande": "Befehlsname",
+        "Choisir une icône": "Wählen Sie ein Symbol",
+        "Commande info liée": "Bestellbezogene Informationen",
+        "Aucune": "Keiner",
+        "Afficher": "Anzeige",
+        "Historiser": "Historisieren",
+        "Inverser": "Umkehren",
+        "Min": "Mindest",
+        "Max": "Max",
+        "Unité": "Einheit",
+        "Supprimer la commande": "Auftrag löschen"
+    },
+    "plugins\/teleinfoPMEPMI\/core\/php\/teleinfoPMEPMI.php": {
+        "Vous n'êtes pas autorisé à effectuer cette action": "Sie sind nicht berechtigt, diese Aktion durchzuführen",
+        "Compteur": "Schalter",
+        "CONTRAT": "VERTRAG"
+    },
+    "plugins\/teleinfoPMEPMI\/core\/ajax\/teleinfoPMEPMI.ajax.php": {
+        "401 - Accès non autorisé": "401 – Unbefugter Zugriff",
+        "Aucune méthode correspondante à": "Keine entsprechende Methode"
+    },
+    "plugins\/teleinfoPMEPMI\/core\/class\/teleinfoPMEPMI.class.php": {
+        "Le port n'est pas configuré": "Der Port ist nicht konfiguriert",
+        "Veuillez vérifier la configuration": "Bitte überprüfen Sie die Konfiguration",
+        "Démarrage du démon": "Starten des Daemons",
+        "Période tarifaire en cours": "Aktueller Preiszeitraum",
+        "Energie active soutirée": "Wirkenergie entzogen",
+        "Energie apparente soutirée": "Scheinbare Energie entzogen",
+        "Puissance active 1 minute": "Wirkleistung 1 Minute",
+        "Consommation totale tous tarifs": "Gesamtverbrauch, alle Preise",
+        "Energie active injectée": "Wirkenergie eingespeist",
+        "Energie apparente injectée": "Scheinbare Energie eingespeist",
+        "Injection totale tous tarifs": "Gesamteinspritzung alle Preise",
+        "Consommation totale": "Gesamtverbrauch",
+        "Puissance maximale soutirage": "Maximale Zugkraft",
+        "Injection totale": "Vollständige Injektion",
+        "Puissance maximale injection": "Maximale Einspritzleistung"
+    },
+    "info.json": {
+        "Plugin servant à relever la téléinfo des compteurs PME-PMI": "Plugin zum Auslesen von Teleinformationen von SME-PMI-Zählern"
+    }
+}

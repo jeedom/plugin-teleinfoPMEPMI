@@ -1,0 +1,77 @@
+{
+    "plugins\/teleinfoPMEPMI\/plugin_info\/configuration.php": {
+        "Port série": "Serial port",
+        "Renseignez le port de communication": "Enter the communication port"
+    },
+    "plugins\/teleinfoPMEPMI\/desktop\/php\/teleinfoPMEPMI.php": {
+        "401 - Accès non autorisé": "401 - Unauthorized Access",
+        "Gestion": "Management",
+        "Configuration": "Configuration",
+        "Mes compteurs": "My counters",
+        "Rechercher": "To research",
+        "Equipement visible": "Visible equipment",
+        "Equipement non visible": "Equipment not visible",
+        "Configuration avancée": "Advanced configuration",
+        "Dupliquer": "Duplicate",
+        "Sauvegarder": "To safeguard",
+        "Supprimer": "DELETE",
+        "Equipement": "Equipment",
+        "Commandes": "Orders",
+        "Paramètres généraux": "General settings",
+        "Nom de l'équipement": "Equipment Name",
+        "Objet parent": "Parent object",
+        "Aucun": "None",
+        "Catégorie": "Category",
+        "Options": "Options",
+        "Activer": "Enable",
+        "Visible": "Visible",
+        "Informations": "Information",
+        "Description": "Description",
+        "Nom": "Name",
+        "Type": "Kind",
+        "Etat": "State",
+        "Actions": "Actions"
+    },
+    "plugins\/teleinfoPMEPMI\/desktop\/js\/teleinfoPMEPMI.js": {
+        "Nom de la commande": "Command name",
+        "Choisir une icône": "Choose an icon",
+        "Commande info liée": "Order related info",
+        "Aucune": "None",
+        "Afficher": "Display",
+        "Historiser": "Historicize",
+        "Inverser": "Reverse",
+        "Min": "Min",
+        "Max": "Max",
+        "Unité": "Unit",
+        "Supprimer la commande": "Delete order"
+    },
+    "plugins\/teleinfoPMEPMI\/core\/php\/teleinfoPMEPMI.php": {
+        "Vous n'êtes pas autorisé à effectuer cette action": "You are not authorized to perform this action",
+        "Compteur": "Counter",
+        "CONTRAT": "CONTRACT"
+    },
+    "plugins\/teleinfoPMEPMI\/core\/ajax\/teleinfoPMEPMI.ajax.php": {
+        "401 - Accès non autorisé": "401 - Unauthorized Access",
+        "Aucune méthode correspondante à": "No method corresponding to"
+    },
+    "plugins\/teleinfoPMEPMI\/core\/class\/teleinfoPMEPMI.class.php": {
+        "Le port n'est pas configuré": "The port is not configured",
+        "Veuillez vérifier la configuration": "Please check the configuration",
+        "Démarrage du démon": "Starting the daemon",
+        "Période tarifaire en cours": "Current pricing period",
+        "Energie active soutirée": "Active energy withdrawn",
+        "Energie apparente soutirée": "Apparent energy withdrawn",
+        "Puissance active 1 minute": "Active power 1 minute",
+        "Consommation totale tous tarifs": "Total consumption all prices",
+        "Energie active injectée": "Active energy injected",
+        "Energie apparente injectée": "Apparent energy injected",
+        "Injection totale tous tarifs": "Total injection all prices",
+        "Consommation totale": "Total consumption",
+        "Puissance maximale soutirage": "Maximum drawing power",
+        "Injection totale": "Total injection",
+        "Puissance maximale injection": "Maximum injection power"
+    },
+    "info.json": {
+        "Plugin servant à relever la téléinfo des compteurs PME-PMI": "Plugin used to read teleinfo from SME-PMI meters"
+    }
+}

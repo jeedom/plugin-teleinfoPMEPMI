@@ -1,0 +1,77 @@
+{
+    "plugins\/teleinfoPMEPMI\/plugin_info\/configuration.php": {
+        "Port série": "Porta serial",
+        "Renseignez le port de communication": "Insira a porta de comunicação"
+    },
+    "plugins\/teleinfoPMEPMI\/desktop\/php\/teleinfoPMEPMI.php": {
+        "401 - Accès non autorisé": "401 - Acesso não autorizado",
+        "Gestion": "Gerenciamento",
+        "Configuration": "Configuração",
+        "Mes compteurs": "Meus contadores",
+        "Rechercher": "Pesquisar",
+        "Equipement visible": "Equipamento visível",
+        "Equipement non visible": "Equipamento não visível",
+        "Configuration avancée": "Configuração avançada",
+        "Dupliquer": "Duplicado",
+        "Sauvegarder": "Para salvaguardar",
+        "Supprimer": "EXCLUIR",
+        "Equipement": "Equipamento",
+        "Commandes": "Pedidos",
+        "Paramètres généraux": "Configurações Gerais",
+        "Nom de l'équipement": "Nome do equipamento",
+        "Objet parent": "Objeto pai",
+        "Aucun": "Nenhum",
+        "Catégorie": "Categoria",
+        "Options": "Opções",
+        "Activer": "Habilitar",
+        "Visible": "Visível",
+        "Informations": "Informação",
+        "Description": "Descrição",
+        "Nom": "Nome",
+        "Type": "Tipo",
+        "Etat": "Estado",
+        "Actions": "Ações"
+    },
+    "plugins\/teleinfoPMEPMI\/desktop\/js\/teleinfoPMEPMI.js": {
+        "Nom de la commande": "Nome do comando",
+        "Choisir une icône": "Escolha um ícone",
+        "Commande info liée": "Informações relacionadas ao pedido",
+        "Aucune": "Nenhum",
+        "Afficher": "Mostrar",
+        "Historiser": "Historicizar",
+        "Inverser": "Reverter",
+        "Min": "Mínimo",
+        "Max": "Máx.",
+        "Unité": "Unidade",
+        "Supprimer la commande": "Excluir pedido"
+    },
+    "plugins\/teleinfoPMEPMI\/core\/php\/teleinfoPMEPMI.php": {
+        "Vous n'êtes pas autorisé à effectuer cette action": "Você não está autorizado a realizar esta ação",
+        "Compteur": "Contador",
+        "CONTRAT": "CONTRATO"
+    },
+    "plugins\/teleinfoPMEPMI\/core\/ajax\/teleinfoPMEPMI.ajax.php": {
+        "401 - Accès non autorisé": "401 - Acesso não autorizado",
+        "Aucune méthode correspondante à": "Nenhum método correspondente a"
+    },
+    "plugins\/teleinfoPMEPMI\/core\/class\/teleinfoPMEPMI.class.php": {
+        "Le port n'est pas configuré": "A porta não está configurada",
+        "Veuillez vérifier la configuration": "Por favor verifique a configuração",
+        "Démarrage du démon": "Iniciando o daemon",
+        "Période tarifaire en cours": "Período de preços atual",
+        "Energie active soutirée": "Energia ativa retirada",
+        "Energie apparente soutirée": "Energia aparente retirada",
+        "Puissance active 1 minute": "Potência ativa 1 minuto",
+        "Consommation totale tous tarifs": "Consumo total todos os preços",
+        "Energie active injectée": "Energia ativa injetada",
+        "Energie apparente injectée": "Energia aparente injetada",
+        "Injection totale tous tarifs": "Injeção total todos os preços",
+        "Consommation totale": "Consumo total",
+        "Puissance maximale soutirage": "Potência máxima de desenho",
+        "Injection totale": "Injeção total",
+        "Puissance maximale injection": "Potência máxima de injeção"
+    },
+    "info.json": {
+        "Plugin servant à relever la téléinfo des compteurs PME-PMI": "Plugin usado para ler teleinfo de medidores SME-PMI"
+    }
+}
