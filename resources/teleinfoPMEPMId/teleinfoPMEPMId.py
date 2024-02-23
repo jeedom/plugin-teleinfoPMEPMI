@@ -30,7 +30,6 @@ except ImportError as e:
     print("Error: importing module jeedom.jeedom")
     sys.exit(1)
 
-
 decode_pmepmi = DecodeCompteurPmePmi()
 interpreteur_trames = InterpretationTramesPmePmi()
 
@@ -43,10 +42,16 @@ def cb_nouvel_octet_recu(octet_recu):
     decode_pmepmi.nouvel_octet(serial.to_bytes(octet_recu))
 
 
+def cb_nouvelle_trame_recue():
+    logging.debug("Last trame : %s",
+                  decode_pmepmi.get_derniere_trame_valide())
+
+
 interpreteur_trames.set_cb_nouvelle_interpretation_tt_interpretation(
     cb_nouvelle_trame_interpretee_tt_interpretation)
 decode_pmepmi.set_cb_nouvelle_trame_recue_tt_trame(
     interpreteur_trames.interpreter_trame)
+decode_pmepmi.set_cb_nouvelle_trame_recue(cb_nouvelle_trame_recue)
 
 # ----------------------------------------------------------------------------
 
