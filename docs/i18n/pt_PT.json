@@ -2,8 +2,10 @@
     "changelog.md": {
         "Changelog Téléinfo PME-PMI": "Registo de alterações Teleinfo SME-SMI",
         "S'il n'y a pas d'information sur la mise à jour, c'est que celle-ci concerne uniquement de la mise à jour de documentation, de traduction ou de texte": "Se não houver informação sobre a atualização, significa que se trata apenas de atualização de documentação, tradução ou texto",
+        "07\/02\/2024": "07\/02\/2024",
+        "Mise à disposition en version stable": "Versão estável disponibilizada",
         "09\/10\/2023": "10\/09\/2023",
-        "Première version beta": "Primeira versão beta",
+        "Mise à disposition en version beta": "Disponível em versão beta",
         " IMPORTANT.": " IMPORTANTE.",
         " IMPORTANT?": " IMPORTANTE?",
         "IMPORTANT ": "IMPORTANTE ",
